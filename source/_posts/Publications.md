@@ -42,6 +42,7 @@ academia: true
 * Taofeng Xue, Beihong Jin, Beibei Li, Kunchi Liu, Qi Zhang, Sihua Tian. [<font color=Blue> Spatial-temporal Recommendation for On-demand Cinemas </font>](https://link.springer.com/chapter/10.1007/978-3-030-18590-9_48), International Conference on Database Systems for Advanced Applications (DASFAA 2019), pp. 373-377.
 
 
+
 ## 🛸 Research Grants
 
 * 2025.12 - 2023.01, Principal Investigator, Chongqing Special Key Projects for Technological Innovation and Application Development, 200,000 CNY.
