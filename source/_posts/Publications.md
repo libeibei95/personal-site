@@ -45,9 +45,9 @@ academia: true
 
 ## 🛸 Research Grants
 
-* 2025.12 - 2023.01, Principal Investigator, Chongqing Special Key Projects for Technological Innovation and Application Development, 200,000 CNY.
-* 2024.12 - 2021.01, Member,  General Program of National Natural Science Foundation of China  (Grant No. 62072450), 540,000 CNY.
-* 2021.12 - 2019.01, Member,  the Young Scientists Fund of the National Natural Science Foundation of China (Grant No. 61802373), 300,000 CNY.
+* 2023.01 - 2025.12, Principal Investigator, Chongqing Special Key Projects for Technological Innovation and Application Development, 200,000 CNY.
+* 2021.01 - 2024.12, Member,  General Program of National Natural Science Foundation of China  (Grant No. 62072450), 540,000 CNY.
+* 2019.01 - 2021.12, Member,  the Young Scientists Fund of the National Natural Science Foundation of China (Grant No. 61802373), 300,000 CNY.
 
 ## 🤓 Student Supervision
 

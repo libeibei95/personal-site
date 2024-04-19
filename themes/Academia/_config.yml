@@ -50,7 +50,7 @@ e_social:
   enable: true
 e_social_links:
   Google Scholar: https://scholar.google.com/citations?user=ffr1yuAAAAAJ&hl=zh-CN / || fas fa-graduation-cap
-  ORCID: https://orcid.org/0000-0003-2711-9370 / || fab fa-orcid
+  ORCID (0000-0003-2711-9370): https://orcid.org/0000-0003-2711-9370 / || fab fa-orcid
   libeibeics@cqu.edu.cn: mailto:libeibeics@cqu.edu.cn / || fas fa-envelope
 
 # CV download link
